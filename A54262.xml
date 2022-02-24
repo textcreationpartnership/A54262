@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers rejected which was also foretold by a person once eminent among them, taken out of his writings which were published some years ago.</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54262</idno>
+            <idno type="STC">Wing P1411</idno>
+            <idno type="STC">ESTC R36663</idno>
+            <idno type="EEBO-CITATION">15866980</idno>
+            <idno type="OCLC">ocm 15866980</idno>
+            <idno type="VID">104642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1154:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers rejected which was also foretold by a person once eminent among them, taken out of his writings which were published some years ago.</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+                  <author>Pennyman, Mary, 1630-1701.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1676?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: J.P.</note>
+                  <note>Letter at end signed: M.P., dated 27 of the month called January, 1676.</note>
+                  <note>Imperfect: stained and torn, with slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104642:1"/>
+            <pb n="1" facs="tcp:104642:1" rendition="simple:additions"/>
+            <head>THE Quakers rejected, Which was alſo <hi>Foretold,</hi> by a Perſon once Eminent amongſt them; taken out of his Writings, which were Publiſhed ſome Years ago.</head>
+            <epigraph>
+               <q>
+                  <p>How are the Mighty fallen!</p>
+                  <p>How is the Faithful City become an Harlot! In it was once the Seat of Judgment and Righteouſneſs; but now Oppreſſours and Murderers bear Sway and Rule. Therefore ſhall they be daſhed to Pieces, like a Potters Veſſel. <hi>And whether they will Hear, or whether they Forbear, this is Truths Teſtimony, which certainly, unerringly, and infallibly, ſhall, and will come to paſs.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <byline>J. P.</byline>
+            <p>I Have long ſeen the Abomination that makes deſolate, ſtanding amongſt the <hi>Quakers;</hi> Wherefore hear the Word of the Lord ye Rulers of <hi>Sodom</hi> and People of <hi>Gomorrah;</hi> 'tis this <hi>Spirit</hi> that hath encompaſſed your <hi>Jeruſalem</hi> about as with Armies — by which we know that the Deſtruction thereof draweth nigh. Finally, 'tis that <hi>Spirit</hi> of Wickedneſs in the form of Righteouſneſs, that hath already torn your Crown from off your Head, and diſcovered your ſecret Parts, ſo that the Scab of Contention and Strife is ſeen, which will never leave nor ceaſe to divide you till the name of <hi>Quaker</hi> be<g ref="char:EOLhyphen"/>come an Hiſs and a Scorn amongſt the Nations. <hi>And you ſhall leave your Name for a Curſe to my Choſen, (whom you have curſed) ſaith the Lord God Everlaſting, who will ſlay Thee, and call his Servants by another Name,</hi> (it may be <hi>Hallelujah</hi>) which you have ſo much defam'd.</p>
+            <p>
+               <pb n="2" facs="tcp:104642:2"/>And You that (for the vaſt numbers of your Tribes) have ſeemed to magnify your ſelves in your increaſe of Children, Wo be to You that now give Suck, (and take ſo much pains to add to your Sect,) for behold, in one day, loſs of Children, and Widowhood ſhall come upon You: yea, a Voice (as that in <hi>Ramah</hi>) ſhall be heard among you, Lamenting your Children becauſe they are not.</p>
+            <p>Of this I am moſt certain — that a Bitter, Lying, and Perſecuting Proud <hi>Spirit</hi> inhabits your Tents; which Babyloniſh Garment hath long been ſeen to lie hid amongſt that <hi>Tribe</hi> called the <hi>Miniſtry,</hi> the <hi>Teachers</hi> and <hi>Leaders</hi> of the <hi>Quakers,</hi> even ſuch Spiritual Wickedneſs; which if practiſ'd amongſt the <hi>Presbyterians, Independents,</hi> or others, (whom ye diſown, and can ſee in them nothing that is good) they would abhor themſelves therein; which You, as with a Whores Fore<g ref="char:EOLhyphen"/>head, boldy maintain and defend. You are in truth thoſe that juſtify your ſelves before Men; but God knoweth your Hearts, and the day is at hand, even at your very Door, which will Diſcover, Reveal and Preach, as upon the Houſe tops, many and great Abominations, which yet lie hid amongſt You; that ſo You may be judged according to your deeds. In which day, all your ſmooth and gilded words of <hi>Light</hi> and <hi>Love</hi> will not hide You; neither yet your flouriſhing Pro<g ref="char:EOLhyphen"/>feſſion, and high eſteem You have of your ſelves, and the low eſteem You have of others, will not cover you from being ſeen. The <hi>Golden Head</hi> of that Image, whereof others are the Iron, Lead and Clay; yea, the very <hi>Name</hi> in which You have Prayed and Propheſyed (when in<g ref="char:EOLhyphen"/>nocent) and in which You have caſt out Devils, and wrought Won<g ref="char:EOLhyphen"/>ders, ſhall now reject You, ſaying, <hi>Depart from me,</hi> &amp;c.</p>
+            <p>I know and have long ſeen that Offences muſt and will be, and that the wo is to them who are offended with what is juſt and innocent. For ſurely this is the Day of <hi>Jacob</hi>'s Troubles, wherein for the diviſion of <hi>Reuben</hi> (the firſt Birth, which ſtands in uniformity to Man in the things of God) there will be great thoughts of Heart. Inſomuch, that if any Offence ariſe, in this Particular, (the Lord knowing my In<g ref="char:EOLhyphen"/>nocency therein,) makes me to ſay, <hi>Bleſſed are ye that are not offended in me,</hi> or rather in what the <hi>Spirit</hi> of Love worketh in Man; for I ſee the <hi>Spirit</hi>'s leading is that Stone and Rock of Offence, at which many in <hi>Iſrael</hi> have ſtumbled, and (falling Headlong as <hi>Judas</hi> did, <hi>Acts</hi> 1.18.) are burſt aſunder, and all their Bowels of Love are guſhed out, and nought left them, ſave Wrath and Enmity againſt the Innocent Bre<g ref="char:EOLhyphen"/>thren. This ſpurning and ſtumbling at the Corner-ſtone <hi>(viz.)</hi>
+               <pb n="3" facs="tcp:104642:2"/>Gods <hi>Spirit</hi> in Man, is the only ground of all theſe Breakings and Diviſions which are at this Day, <hi>&amp;c.</hi> Yea, the Son and Heir of Hea<g ref="char:EOLhyphen"/>ven, the Light and Truth in the inward Parts, is become the Gin and Snare to <hi>Iſrael</hi> after the Fleſh, who think they do God good ſer<g ref="char:EOLhyphen"/>vice, when they ſmite, backbite and devour the Innocent and Upright in Heart.</p>
+            <p>As if to follow other Mens Light would ſave the Soul, rather then to follow the Light and Meaſure of God in themſelves. — But when Man leaves and forſakes Gods Grace in himſelf, (which is ſufficient to lead into all Truth) and by his own induſtry partakes of the ſtol<g ref="char:EOLhyphen"/>len Waters of the Harlot, <hi>(viz.)</hi> Mans Inventions and Teachings, he will then with all the bitterneſs and violence of Man, endea<g ref="char:EOLhyphen"/>vour to defend this Idol, (read <hi>Ezek.</hi> 8.12.) as more affecting the Work of his own Hands, then reſpecting the Rule which God hath given him to walk by.</p>
+            <p>And becauſe, I ſee the Son of Man is coming forth to bruiſe (as with a Rod of Iron) the Unrighteous Nations, not to bring Peace, but a Sword; I alſo, in obedience to the Father's Commands, have ſold my Coat, (made of Good-will to all, both Perſons and Things) that I might purchaſe a Sword, with which (contrary to my Na<g ref="char:EOLhyphen"/>ture) I am conſtrained to plead like a Man of Contention, againſt this proud, Phariſaical and perverſe Generation, this <hi>Leviathan</hi> and crooked Serpent, in whoſe Noſtrils (unleſs a Hook be put,) would ſwallow not only the Rivers, but alſo the very Sea into himſelf, <hi>viz.</hi> receive all, (tho never ſo unclean in Heart and Spirit, if outwardly they will but own him,) receive his Mark and Number of his Name, and walk in outward Obſervation and Shew conformable to them; who whilſt they profeſs themſelves free from ſin — and being the on<g ref="char:EOLhyphen"/>ly Children of God, are notwithſtanding found bitter Perſecutors of the Truth, and Enemies to the <hi>
+                  <g ref="char:V">Ʋ</g>nction,</hi> the Anointed one, in whom<g ref="char:EOLhyphen"/>ſoever He doth appear; thereby rendring themſelves guilty of all the innocent Blood which hath been ſpilt from the Blood of Righteous <hi>Abel,</hi> even unto this day; all which Blood cryeth aloud for Venge<g ref="char:EOLhyphen"/>ance upon the well-favour'd Harlot, <hi>(Myſtery Babylon,)</hi> who in the Golden Cups and goodly ſhew of an outward Profeſſion, hath inward<g ref="char:EOLhyphen"/>ly (with a bitter ravening and devouring Spirit) made her ſelf drunk with the Blood of the Saints and Martyrs of Jeſus.</p>
+            <p>I have obſerved, that thoſe that forſake Father and Mother, (the Sect that nouriſhed and brought them forth) to follow the LORD
+<pb n="4" facs="tcp:104642:3"/>fully and wholly (as did <hi>Caleb, Joſhua</hi> and <hi>Jeſus,</hi> &amp;c.) not minding their own Reputation or Fame, nor loving their Lives unto the Death; ſuch, I ſay, have been accounted, as in all Ages, ſo by this Hypocri<g ref="char:EOLhyphen"/>tical, Proud, Self-righteous Generation, as the worſt of Men, calling them <hi>Ranters, Atheiſts, Blaſphemers, Devils,</hi> any thing, even all man<g ref="char:EOLhyphen"/>ner of evil, ſo they may wound the Truth, and ſlay the innocent De<g ref="char:EOLhyphen"/>ſenders thereof, whoſe harmleſs Souls I ſee lying under the Altar of Truth ſorely oppreſſed for their Teſtimony thereunto, and crying out, <hi>How long, Lord God, holy and true, e're thou doſt judge and revenge our Blood!</hi> For whoſe Elect ſake the God of my Salvation will ſuddenly ariſe, and then behold Enmity, Lyes and Falſhood, <hi>&amp;c.</hi> (even all that Spirit of Wickedneſs) will ſurely fly, hide it ſelf, and ſink again into the bottomleſs Pit, from whence it came.</p>
+            <p>I have been by none ſo ſhamefully vilified and abuſed as by the People call'd <hi>Quakers,</hi> — Who care not whom they ſlander, or what lyes they tell, ſo they may advance, ſtrengthen and increaſe their Party and Sect. — By all which it will evidently appear, that the Spirit of De<g ref="char:EOLhyphen"/>ceit and Falſhood is crept in, and doth inhabit amongſt this People.</p>
+            <p>I have thus much to ſignify to the <hi>Quakers</hi> — that if they would forbear any longer to give the Innocent of their Wormwood and Gall to drink, and rather ſtudy Peace and Quietneſs, and learn to love their Enemies, yea, if poſſible, turn (that which ſome account) Evil unto Good, or at the leaſt, reward Evil with that which is Good, and not pervert the Words and Actions of others (which are honeſtly and innocently intended) to an evil and wrong ſenſe: I dare aſſure them that to follow this Way and Spirit of harmleſs Love and Kind<g ref="char:EOLhyphen"/>neſs, will ſooner bring them into the Land of <hi>Canaan,</hi> viz. into Peace and Reſt with that of God in all His Creation, than their high talk of <hi>Infallibility</hi> and <hi>Self-perfection</hi> ſhall do, or their ſaying (with the Phariſees of old) that God is their Father, whilſt they are doing the Devils work, and found ſmiting, tearing and devouring the In<g ref="char:EOLhyphen"/>nocent, <hi>&amp;c.</hi> Aſſuredly, theſe their high Notions and lofty Imagi<g ref="char:EOLhyphen"/>nations will no longer ſerve to hide them from the Wrath of the LAMB, who is now ariſing to take Vengeance of all that have had a hand in ſlaying Him; for a Separation is making between the Pre<g ref="char:EOLhyphen"/>cious and the Vile, between him that ſerveth God in newneſs of Heart, in the upright Spirit of Love in well-doing, and thoſe that ſerve and pleaſe themſelves, a Sect, a Party, or an Opinion only.</p>
+            <p>
+               <pb n="5" facs="tcp:104642:3"/>And were not Perſecutors Blind in Heart, and Hardned, they would ſoon diſcern how that Love that thinks none ill, gives no evil wrathful Names, (eſpecially to thoſe they know no evil by) as <hi>Ranters, Whoremongers, Devils,</hi> &amp;c. And that this is not the Spirit of the <hi>Lamb,</hi> but the <hi>Dragon</hi> that caſts out his Flouds of Enmity after the Manchild (the Son of Love,) who ſurely muſt and will take the Kingdom, and get the Victory over Enmity, the worſt and great<g ref="char:EOLhyphen"/>eſt Enemy of Mankind.</p>
+            <p>Therefore is He now ariſing to daſh one againſt another, Brother againſt Brother, one againſt two, and two againſt three, till the Earth hath diſcloſed the Blood ſhe hath drunk, and the Seed of God be recovered (out of that Reproach and Shame under which it hath layn buried, by the inveterate and implacable Spirit of a Carnal, Formal Profeſſion,) yea redeemed to walk in Gods way, which He by his Spirit ſhall direct in every Heart and Conſcience. For this I know and do declare, that my God will not leave overturning, over<g ref="char:EOLhyphen"/>turning, overturning, till He comes who brings along with Him Truth and Love, to Equity and Righteouſneſs, whoſe right it is thus to Rule and Reign in the Hearts and Conſciences of His People, whoſe way ſhall be proſperous upon the Earth.</p>
+            <p>You greatly cry out and call upon others to fear and dread the LORD, yet your ſelves are ſo ignorant of that Leſſon, that ye blind<g ref="char:EOLhyphen"/>ly run on to judge the Innocent, and condemn the Truth, yea to ſmite the Apple of Gods Eye, and irreverently reach at the Signet on His right Hand, by condemning and ſpeaking evil of the things you know not: which ſufficiently demonſtrate that You are out of the pure Fear, that keeps the Heart clean from thoſe Abominations into which You ſo eaſily run.</p>
+            <p>Alas, what are all your ſmooth words of <hi>Light, Love</hi> and <hi>Truth,</hi> whilſt they ſpring from the Root and Spirit of Falſhood, Envy and Bitterneſs! and what is it to ſpeak with the Tongue of Men and Angels, to have the Gift of Prophecy, to open Myſteries, or to have Faith that could remove Mountains, and have not Love and Charity, what will all this avail you? Are You herein better than <hi>Balaam</hi> was? I tell you nay: for he knew as much as You do, and was more Ho<g ref="char:EOLhyphen"/>neſt and Sincere; for he knew not only the difference between the two Seeds, (when his Eyes were opened) which was Bleſſed and which Accurſed; but was alſo well acquainted with the Seed of God, its Beginning, Progreſs and End. Yea and more, he (did not curſe
+<pb n="6" facs="tcp:104642:4"/>it, but) owned it, and would ſpeak nothing but Truth, and what the Lord put in his Mouth, that only would he ſay; but Ye utter Lyes and Falſhood with great confidence againſt the Innocent, even what the Devil ſuggeſteth. Thus having loſt your firſt Love, and for<g ref="char:EOLhyphen"/>ſaken the Faith once deliver'd to the Saints; you are now like that Evil Spirit caſt out, running to and fro, walking through the dry places of your <hi>Elders Traditions,</hi> following the Footſteps of <hi>Amalek</hi> the firſt of Nations, thoſe you call <hi>Good old Friends,</hi> ſeeking reſt, but never ſhall find any, ſo long as <hi>Balaak</hi> and <hi>Balaam,</hi> that bitter Spirit, leads to Curſe whom God will ſurely Bleſs, and bring over you; for Ye muſt fall, and (with <hi>Haman, Saul</hi> and <hi>Herod</hi>) be in<g ref="char:EOLhyphen"/>ſnared and taken, even in the ſame Pit of cruel Deceit, which you have digged for your Innocent Brethren: and herein (for ſome time) will the Faith and Patience of the Saints be exerciſed.</p>
+            <p>Thus am I clear from the Blood of all Men, in that I have not ceaſed both by Words and Writing to forewarn of the coming of this <hi>Antichriſt</hi> among the <hi>Quakers,</hi> who for more then ten Years laſt paſt have been that poor Aſs, ſpeaking as with Mans Voice, reproving and withſtanding the madneſs of this Lying, Wrathful, Bitter, Perſecu<g ref="char:EOLhyphen"/>ting Spirit, knowing right well when it enter'd, and you thereby came to reject the LORD, that He ſhould not reign over you, by His Spirit of <hi>Light</hi> and <hi>Love,</hi> but rather choſe to your ſelves a King, like unto other Sects and Nations, for to judge and rule you; who was not the <hi>
+                  <g ref="char:V">Ʋ</g>nction,</hi> nor the Anointed of the LORD; nor yet the Olive, Fig, nor Vine, that could heal, rejoyce, or bind you up; but the <hi>Bramble</hi> and King of the bottomleſs Pit, that ſhall ſo rend, tear, and devour you, till not one Stone ſhall be left upon another; which thing tell <hi>G. F.</hi> that FOX your King.</p>
+            <p>By what is written, you may ſee how this High and Luciferian People the <hi>Quakers,</hi> who for their Shew and Numbers have been as the Stars of Heaven, and who for their Pride and Enmity are now caſt down; behold, <hi>what Clouds they are without Water, even wandring Stars, to whom is reſerved the blackneſs of darkneſs for ever:</hi> WHOSE FALL IS THE RICHES OF THE WORLD; inſomuch that Carnal Whore<g ref="char:EOLhyphen"/>mongers and Adulterers (over whom they have exalted themſelves) ſhall ſooner Repent, find Mercy, and enter Gods Kingdom of Grace, then this Spiritually Adulterous, Proud Generation, (that account ſo highly of themſelves, and to be the only Children of the King<g ref="char:EOLhyphen"/>dom) who ſhall be ſhut out. — So that the firſt in Profeſſion are
+<pb n="7" facs="tcp:104642:4"/>now become the laſt in Poſſeſſion of the Kingdom, which ſtandeth not in Words, nor yet in outward Appearances, but in Humility and Love unfeigned, yea in Righteouſneſs, Peace and Joy.</p>
+            <p>And till I hear of your publick Repentance, as you have publickly appear'd againſt the Truth, and the Innocent Defenders thereof, I ſhall eſteem you no better then <hi>Judas,</hi> or as Infidels and Heathens, that have denyed the Truth and Faith once deliver'd to the Saints; which to maintain, ſome have hazarded the loſs of all Things, yea ſuffered great Shame and Reproach amongſt you. But bleſſed be God, that which Ye intended for evil againſt me, that hath the Lord my God turned unto good; for which my Soul doth bleſs and mag<g ref="char:EOLhyphen"/>nify His Name, and for ever give thanks, even whileſt I am, and when I am no more.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The foregoing being printed in leſs room then was expected, the vacancy is fill'd up with this following Letter, which was lately ſent to one of the ſaid People.</head>
+                  <opener>
+                     <salute>FRIEND,</salute>
+                  </opener>
+                  <p>YEſterday we received from thee a foul and dirty Letter, both within and without; loathſom indeed to a clean Mind; wherin thou confirmed what was ſpoken the ſame day at your open Meeting, which was this; <hi>That as cer<g ref="char:EOLhyphen"/>tainly as ever a Lying Spirit enter'd</hi> Ahab<hi>'s falſe Prophets; ſo as cer<g ref="char:EOLhyphen"/>tainly, and aſſuredly, hath a deceitful Lying Spirit enter'd your Preach<g ref="char:EOLhyphen"/>ers.</hi> Canſt thou have the boldneſs to charge your own Iniquities upon us? in that thou mentions our revelling, and ranting at <hi>Merchant-Taylors-Hall;</hi> when at the ſame time, we were kept in a ſober, ſerious, weighty Spirit; was it not wickedneſs ſufficient in You, to deny us that Meeting-Place wherein we had a juſt right; but You muſt come thither (where we were) in the fury of your Spirits, to make a diſturbance; and when you had done all this, ad<g ref="char:EOLhyphen"/>ding ſin, unto ſin; You have taken liberty to your Tongues, greatly to bely, and reproach us; ſaying, report, and we will report; defame, and we will de<g ref="char:EOLhyphen"/>fame. The truth is, You had wanted matter exceedingly to have fulfill'd your own corrupt wills againſt us, (after we were made to provoke you,) had it not been for burning the Paper at the <hi>Exchange,</hi> and inviting ſeveral Per<g ref="char:EOLhyphen"/>ſons to <hi>Merchant-Taylors-Hall;</hi> things of no evil in themſelves, neither done with an evil Mind; but You ſeeing your Kingdom was ſtruck at, and
+<pb n="8" facs="tcp:104642:5"/>like to loſe your outward Glory and Image you had ſet up, herein got occaſion againſt us, as <hi>Joſeph</hi>'s Miſtriſs did againſt him, for leaving his Garment in her Hand; and ſo have like the falſe Prophets of old, heaped up ſlanders and ſcandals upon us, from time, to time, to make us odious in the eyes of all, ſo far as lay in your power; but the time of <hi>Joſeph</hi>'s impriſonment is at an end; and what You have ſowed, You muſt now reap; for your ſelves are become an odious People in the eyes of moſt ſober Perſons, ſo that the common Proverb with many is, <hi>You are as cunning as a</hi> Quaker; it may indeed be matter of grief to us all, that it ſhould be thus; but as Righteouſneſs eſtabliſheth a Peo<g ref="char:EOLhyphen"/>ple, or a Nation; ſo on the contrary, <g ref="char:V">Ʋ</g>nrighteouſneſs throws them down. Alas! is there any matter made amongſt You of telling lyes? How many have you told, writ, and printed concerning us? I muſt tell thee, my own Mother (tho ſhe never came into any of your outward Profeſſions,) would puniſh a lye with ſeverity; which, when I have conſider'd, and alſo the little Conſcience You make thereof, truly I have admir'd the Ground hath not opened and ſwallowed up ſome of You, for an example and warning to the reſt. There's many groſs evils breaks forth dayly amongſt You; but where's your Teſtimony, Year, after Year, againſt them for Evil-doing, as hath been againſt us for Well-doing? ſome of You (I do believe) keeps clean the outſide, but inwardly You are as ravening Wolves; for if any oppoſe You and teſtify againſt your Form; You endeavour to ruine them, both Soul and Body, ſo far as lies in your Power; ſo You are far from doing, as You would be done unto; and ſo far from rendring Good for Evil, that You dayly reward Evil for Good. I tell thee revelling, and ranting, my Soul ever abhor'd; therefore put thoſe words upon your own, that doth ſo.</p>
+                  <p>I have hitherto been very tender towards thee (for the love I have had to thee and thy Wife,) but the day of recompence is come; and thou ſhalt know, thou art not right in His ſight who beholds the ſecrets of all Hearts; therefore be humbled, and ſit in ſilence, exalt not thy ſelf, leſt thou be made an exam<g ref="char:EOLhyphen"/>ple to others.</p>
+                  <closer>
+                     <signed>I am thy Friend, <hi>M. P.</hi>
+                     </signed>
+                     <date>
+                        <hi>27. of (the Month called) January.</hi> 1676.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>We are very guilty concerning our Brother, in that we ſaw the anguiſh of his Soul when he beſought us, and we would not hear: therefore is this trouble come upoon us.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:104642:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
